@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BD_wishes/static/css/main.ac8adadb.css",
-    "main.js": "/BD_wishes/static/js/main.c1e11336.js",
+    "main.js": "/BD_wishes/static/js/main.712c1ab6.js",
     "index.html": "/BD_wishes/index.html",
     "main.ac8adadb.css.map": "/BD_wishes/static/css/main.ac8adadb.css.map",
-    "main.c1e11336.js.map": "/BD_wishes/static/js/main.c1e11336.js.map"
+    "main.712c1ab6.js.map": "/BD_wishes/static/js/main.712c1ab6.js.map"
   },
   "entrypoints": [
     "static/css/main.ac8adadb.css",
-    "static/js/main.c1e11336.js"
+    "static/js/main.712c1ab6.js"
   ]
 }
